@@ -1,5 +1,5 @@
-const Builder = require('./lib/Builder');
-const {writeFile, copyFile} = require('./utils/generate-site')
-const generatePage = require('./src/generate-page')
+const Builder = require('./lib/Builder'); //makes it so when app runs it uses builder object
 
-new Builder().initializeBuilder();
+console.log("Welcome to the Team Portfolio Builder! To begin creating your team, answer the following questions: ");
+//does it all :)
+Builder();
