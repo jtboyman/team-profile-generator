@@ -104,9 +104,6 @@ const generatePage = (employeesArray) => {
     </body>
     </html>
     `
-    //do it again and again :(
-
-    // constant file data = array w render
     writeFile(employeeData);
 };
 
