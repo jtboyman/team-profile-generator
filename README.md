@@ -21,7 +21,7 @@
 
   ## Usage:
   This is a command line application that obtains user information to generate HTML. After calling the application from the command line using "node index", complete the prompts that follow. The prompts will change based on the type of employee created. Employees can be created in any order, as the HTML will automatically format and organize managers, engineers, and interns. After creating the desired number of employees, the app will write the HTML file and copy its CSS stylesheet to the 'dist' subdirectory. For more detailed information, you can view the [video](https://watch.screencastify.com/v/hdnE7LNqBEGLRqngxvt2) in the [tests](#tests) section. 
-    ![alt text](assets\team-gen-app-screenshot.PNG)
+    ![alt text](./assets/team-gen-app-screenshot.PNG)
   
  ## License:
   Licensed under the MIT license.
